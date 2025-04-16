@@ -83,6 +83,7 @@
 #### 답)
 <img src="images/skewnessECG.png">
 <img src = "images/kurtosisECG.png">
+
 ### 12. HRV(Heart Rate Variability)는 심장 박동 간의 시간 간격 차이를 의미한다. HRV는 어떤 생리학적 메커니즘을 통해 생성되는가?
 #### 답)
 
